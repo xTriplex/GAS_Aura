@@ -3,7 +3,6 @@
 
 #include "Character/AuraCharacterBase.h"
 #include "AbilitySystemComponent.h"
-#include "Aura/Aura.h"
 
 AAuraCharacterBase::AAuraCharacterBase()
 {
