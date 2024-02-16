@@ -2,8 +2,6 @@
 
 
 #include "UI/WidgetController/AttributeMenuWidgetController.h"
-
-#include "AuraGameplayTags.h"
 #include "AbilitySystem/AuraAttributeSet.h"
 #include "AbilitySystem/Data/AttributeInfo.h"
 
